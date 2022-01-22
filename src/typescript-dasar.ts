@@ -9,3 +9,7 @@ let umur:number = 26
 
 umur =5
 
+// tipe data boolean
+let isTrue:boolean
+
+isTrue = true
