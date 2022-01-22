@@ -13,3 +13,9 @@ umur =5
 let isTrue:boolean
 
 isTrue = true
+
+// tipe daya any
+let heroes:any
+
+heroes = "Iron Man"
+heroes = 10

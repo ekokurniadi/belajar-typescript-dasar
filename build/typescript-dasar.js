@@ -8,3 +8,7 @@ umur = 5;
 // tipe data boolean
 let isTrue;
 isTrue = true;
+// tipe daya any
+let heroes;
+heroes = "Iron Man";
+heroes = 10;
