@@ -7,3 +7,7 @@ array2 =["eko","kurniadi"]
 
 let array3:any[]
 array3 =[1,"eko",true]
+
+// tupples
+let biodata:[string,number]
+biodata =["Jambi",123]
